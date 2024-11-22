@@ -32,7 +32,7 @@ namespace VirtualLibrary
 
         }
 
-        private void textBox3_TextChanged(object sender, EventArgs e)
+        private void LoginForm_TextChanged(object sender, EventArgs e)
         {
 
         }
@@ -65,6 +65,11 @@ namespace VirtualLibrary
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
         {
 
         }
